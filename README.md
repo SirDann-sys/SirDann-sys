@@ -3,27 +3,18 @@
 </p>
 
 <p align="center">
-  <a href="https://sunnar.com.br"><b>sunnar.com.br</b></a>&nbsp;&nbsp;&middot;&nbsp;&nbsp;portfólio ao vivo, código de cada projeto abaixo
+  <a href="https://sunnar.com.br"><img src="https://img.shields.io/badge/sunnar.com.br-00F3FF?style=for-the-badge&logoColor=0A0C10&labelColor=0A0C10" alt="sunnar.com.br" /></a>
+  <a href="https://www.linkedin.com/in/danilo-mendestc/"><img src="https://img.shields.io/badge/LinkedIn-00F3FF?style=for-the-badge&labelColor=0A0C10" alt="LinkedIn" /></a>
 </p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/danilo-mendestc/"><img src="https://img.shields.io/badge/LinkedIn-0A0C10?style=flat-square&logo=linkedin&logoColor=00F3FF" alt="LinkedIn" /></a>
-  <a href="mailto:contato@sunnar.com.br"><img src="https://img.shields.io/badge/e--mail-0A0C10?style=flat-square&logo=gmail&logoColor=00F3FF" alt="e-mail" /></a>
-</p>
+<p align="center"><sub>portfólio ao vivo &middot; código de cada projeto abaixo</sub></p>
 
 <br>
 
 ## `sunnar@root:~$ whoami`
 
-```
-edu        análise e desenvolvimento de sistemas · fiap    // em curso
-edu_prev   técnico em eletrônica · ifg                      // concluído
-work_prev  técnico eletrônico jr · kantar                   // bancada e servidores
-lang       python · java · c · dart
-infra      linux · docker · git · redes
-idiomas    português nativo · inglês técnico                // leitura
-status     aberto a estágio em desenvolvimento              // disponível agora
-```
+<p align="center">
+  <img src="./assets/sunnar-neofetch.svg" alt="edu: análise e desenvolvimento de sistemas · fiap (em curso). edu_prev: técnico em eletrônica · ifg (concluído). work_prev: técnico eletrônico jr · kantar, bancada e servidores. lang: python, java, c, dart. infra: linux, docker, git, redes. status: aberto a estágio em desenvolvimento." width="680" />
+</p>
 
 Vim do hardware. Técnico em eletrônica pelo IFG, depois quase dois anos de bancada na Kantar IBOPE Media diagnosticando equipamento de medição de audiência, dispositivos de rede e servidores de recepção — sob SLA, às vezes em sobreaviso.
 
@@ -76,7 +67,7 @@ Este site. SPA em HTML, CSS e JavaScript puro — sem framework, sem build step.
 > **A parte difícil:** roteamento por hash próprio, com renderização lazy e idempotente por view, navegação completa por teclado e suporte a `prefers-reduced-motion`. Hardening de produção versionado no repositório: `Content-Security-Policy` sem `unsafe-inline`, HSTS, `X-Frame-Options` e `Permissions-Policy`. Deploy contínuo no Cloudflare Pages, DNS próprio.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-0A0C10?style=flat-square&logo=javascript&logoColor=00F3FF)
-![CSS](https://img.shields.io/badge/CSS-0A0C10?style=flat-square&logo=css3&logoColor=00F3FF)
+![CSS](https://img.shields.io/badge/CSS-0A0C10?style=flat-square&logo=css&logoColor=00F3FF)
 ![Cloudflare Pages](https://img.shields.io/badge/Cloudflare_Pages-0A0C10?style=flat-square&logo=cloudflare&logoColor=00F3FF)
 
 <br>
@@ -90,7 +81,7 @@ Este site. SPA em HTML, CSS e JavaScript puro — sem framework, sem build step.
 ![Flutter](https://img.shields.io/badge/Flutter-0A0C10?style=flat-square&logo=flutter&logoColor=00F3FF)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0A0C10?style=flat-square&logo=javascript&logoColor=00F3FF)
 ![HTML5](https://img.shields.io/badge/HTML5-0A0C10?style=flat-square&logo=html5&logoColor=00F3FF)
-![CSS3](https://img.shields.io/badge/CSS3-0A0C10?style=flat-square&logo=css3&logoColor=00F3FF)
+![CSS3](https://img.shields.io/badge/CSS3-0A0C10?style=flat-square&logo=css&logoColor=00F3FF)
 ![Git](https://img.shields.io/badge/Git-0A0C10?style=flat-square&logo=git&logoColor=00F3FF)
 ![Linux](https://img.shields.io/badge/Linux-0A0C10?style=flat-square&logo=linux&logoColor=00F3FF)
 ![Docker](https://img.shields.io/badge/Docker-0A0C10?style=flat-square&logo=docker&logoColor=00F3FF)

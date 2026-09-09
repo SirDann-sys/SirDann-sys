@@ -1,0 +1,25 @@
+<svg width="680" height="224" viewBox="0 0 680 224" xmlns="http://www.w3.org/2000/svg">
+  <rect width="680" height="224" rx="8" fill="#0A0C10" stroke="#00F3FF" stroke-opacity="0.25"/>
+  <text x="24" y="34" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', Menlo, monospace" font-size="15" fill="#00F3FF">&#9484;&#9472; sunnar@root &#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9484;</text>
+
+  <text y="62" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', Menlo, monospace" font-size="15">
+    <tspan x="24" fill="#0AA5AD" font-weight="bold">edu</tspan><tspan x="150" fill="#E6EDF3">an&#225;lise e desenvolvimento de sistemas &#183; fiap</tspan><tspan fill="#5B6572"> // em curso</tspan>
+  </text>
+  <text y="88" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', Menlo, monospace" font-size="15">
+    <tspan x="24" fill="#0AA5AD" font-weight="bold">edu_prev</tspan><tspan x="150" fill="#E6EDF3">t&#233;cnico em eletr&#244;nica &#183; ifg</tspan><tspan fill="#5B6572"> // conclu&#237;do</tspan>
+  </text>
+  <text y="114" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', Menlo, monospace" font-size="15">
+    <tspan x="24" fill="#0AA5AD" font-weight="bold">work_prev</tspan><tspan x="150" fill="#E6EDF3">t&#233;cnico eletr&#244;nico jr &#183; kantar</tspan><tspan fill="#5B6572"> // bancada e servidores</tspan>
+  </text>
+  <text y="140" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', Menlo, monospace" font-size="15">
+    <tspan x="24" fill="#0AA5AD" font-weight="bold">lang</tspan><tspan x="150" fill="#E6EDF3">python &#183; java &#183; c &#183; dart</tspan>
+  </text>
+  <text y="166" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', Menlo, monospace" font-size="15">
+    <tspan x="24" fill="#0AA5AD" font-weight="bold">infra</tspan><tspan x="150" fill="#E6EDF3">linux &#183; docker &#183; git &#183; redes</tspan>
+  </text>
+  <text y="192" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', Menlo, monospace" font-size="15">
+    <tspan x="24" fill="#0AA5AD" font-weight="bold">status</tspan><tspan x="150" fill="#FF00E5" font-weight="bold">aberto a est&#225;gio em desenvolvimento</tspan>
+  </text>
+
+  <text x="24" y="216" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', Menlo, monospace" font-size="15" fill="#00F3FF">&#9492;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9492;</text>
+</svg>
