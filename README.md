@@ -31,10 +31,14 @@ com testes antes, e publica o replay da execução no GitHub Pages. Pronto para 
 
 <img src="https://raw.githubusercontent.com/SirDann-sys/robo-rpa-challenge/HEAD/docs/resultado.png" alt="Resultado do robô: 100% de acerto, 70 de 70 campos" width="680">
 
-#### [TrapDoor](https://github.com/SirDann-sys/trapdoor)
+#### [Lupa do Aluguel](https://github.com/SirDann-sys/lupa-do-aluguel) · [▶ usar agora](https://sirdann-sys.github.io/lupa-do-aluguel/)
 
-Auditor de contratos de aluguel com IA: divide o contrato em cláusulas e aponta violações da Lei do Inquilinato,
-com saída do LLM forçada por schema e contratos sintéticos de teste.
+[![CI](https://github.com/SirDann-sys/lupa-do-aluguel/actions/workflows/ci.yml/badge.svg)](https://github.com/SirDann-sys/lupa-do-aluguel/actions/workflows/ci.yml)
+
+Aponta cláusulas abusivas em contratos de aluguel, a partir do texto ou do PDF. A IA (Groq, com reserva no Gemini)
+só extrai fatos com saída por JSON Schema e precisa citar o trecho que prova cada um; quem aplica a Lei do Inquilinato
+são 7 regras em Python puro, testadas sem IA. API em FastAPI, métricas em PostgreSQL (SQLAlchemy + Alembic), Docker
+e CI com Postgres real. Em 16 contratos de teste cego, acertou **16 de 16**.
 
 ---
 
@@ -42,4 +46,4 @@ com saída do LLM forçada por schema e contratos sintéticos de teste.
 
 **Back-end:** Python · FastAPI · SQL · PostgreSQL · SQLite · SQLAlchemy · Pydantic · APIs REST<br>
 **IA:** LLMs · Claude API · JSON Schema · RAG · Whisper · ComfyUI<br>
-**Automação e qualidade:** RPA (BotCity) · pytest · GitHub Actions · Docker · Git · Linux
+**Automação e qualidade:** RPA (BotCity) · pytest · mypy · GitHub Actions · Docker · Git · Linux
